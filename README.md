@@ -12,3 +12,5 @@ streamlit run app.py
    - "تقسیم" → "Division"
 3. Kept the same logic and structure
 4. Maintained the error message for division by zero.
+
+https://nidzr-streamlit-beginners-app-uuq7bt.streamlit.app/
